@@ -9,5 +9,9 @@ public class FirstRun {
 		
 
 	}
+	
+	public static void fameworkEnhancement() {
+		System.out.println("Frawork changes by W2");
+	}
 
 }
