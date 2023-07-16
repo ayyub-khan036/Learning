@@ -6,6 +6,7 @@ public class FirstRun {
 		System.out.println("Projecy Learning"); 
 		System.out.println("Line by W2");
 		System.out.println("Line by W3");
+		fameworkEnhancement();
 		
 
 	}
